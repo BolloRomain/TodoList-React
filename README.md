@@ -1,5 +1,3 @@
-#TodoList-React
-
 ## Avant de lire le code
 
 Installation des dépendances avec la commande : yarn
